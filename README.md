@@ -5,10 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chinmayrm" alt="chinmayrm" /></a> </p>
 
-- 🔭 I’m currently working on **Face Recognition**
-
-- 🌱 I’m currently learning **Pytorch,TenserFlow,NLP's**
-
 - 👯 I’m looking to collaborate on **Neural Link Projects**
 
 - 🤝 I’m looking for help with **Large Language Models**
